@@ -9,6 +9,7 @@ This is the source code of the student research project **Real-time Face Mask De
  and under the supervision of Academic advisor Dr. Lý Tú Nga 
 </ul>
 ## Running Instruction
+***Note: The python version for running this project is Python 3.8.x
 - Install required packages in `requirements.txt`, remember to check the version of Microsoft Visual C++ must be greater than ver 14.0
 - Set video source and model weight used in `facemask_server.py`.
 - Open CMD in root folder, set the export file: `set FLASK_APP=facemask_server`
