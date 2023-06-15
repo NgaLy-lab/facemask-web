@@ -15,5 +15,7 @@ This is the source code of the student research project **Real-time Face Mask De
 - Open CMD in root folder, set the export file: `set FLASK_APP=facemask_server`
 - Run Flask `flask run`
 - The web app is running on `http://localhost:5000/video`
+## Facemask Images Dataset:
+https://drive.google.com/drive/folders/1J7CNjRrdduDr5KSWkgtLSYNzccrGyO-P?usp=sharing
 
 
